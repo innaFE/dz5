@@ -55,4 +55,4 @@ function getRandCharInAlph(keyboard) {
 }
 }
 
-document.write(getRandCharInAlph(keyboard));
+console.log(getRandCharInAlph(keyboard));
